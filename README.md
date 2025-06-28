@@ -112,6 +112,38 @@ By completing this project, you’ll be able to:
 
 ---
 
+## 📘 What is Requirement Analysis?
+
+Requirement Analysis is a foundational phase in the Software Development Lifecycle (SDLC) where the needs, expectations, and constraints of stakeholders are gathered, analyzed, and documented to guide the design and development of a software system.
+
+This process ensures that all project participants — from developers and designers to clients and end-users — have a shared understanding of what the system should do and how it should behave.
+
+---
+
+### 💡 Why is Requirement Analysis Important?
+
+- **Clarity & Alignment**: Eliminates misunderstandings by capturing clear expectations from stakeholders.
+- **Scope Definition**: Sets clear boundaries for what the system will and will not do, preventing scope creep.
+- **Foundation for Design**: Guides technical teams in system architecture, interface design, and functionality.
+- **Accurate Planning**: Enables more reliable cost, resource, and time estimates.
+- **Quality Assurance**: Acts as the benchmark against which the final product is validated and tested.
+
+---
+
+### 🔄 Where it Fits in the SDLC
+
+Requirement Analysis is one of the earliest phases in the SDLC and influences all subsequent phases:
+1. **Planning** — Estimations and feasibility assessments rely on clearly defined requirements.
+2. **Design** — System architecture and UI/UX flows are built based on documented needs.
+3. **Development** — Code is written to implement the agreed-upon functionality.
+4. **Testing** — Test cases are designed to match each requirement.
+5. **Deployment & Maintenance** — Changes are easier to manage when requirements are traceable.
+
+---
+
+In summary, Requirement Analysis bridges the gap between stakeholder vision and technical implementation. When done correctly, it increases the chances of delivering a successful, valuable, and usable software product.
+
+
 ## 📎 License
 This project is for educational purposes as part of the ALX Software Engineering Program.
 
@@ -120,3 +152,5 @@ This project is for educational purposes as part of the ALX Software Engineering
 ## 💬 Let's Connect!
 Proudly sharing this as part of my ALX journey!  
 #ALX_SE #ALX_PDFE #RequirementAnalysis @alx_africa
+
+
