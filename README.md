@@ -199,6 +199,45 @@ Finally, the documented requirements are verified and validated with stakeholder
 
 Together, these activities create a structured, stakeholder-aligned blueprint that guides the development of a reliable and effective software product.
 
+## 🧩 Types of Requirements
+
+In software development, requirements are typically categorized into two main types: **Functional** and **Non-functional**. Both are essential for building a reliable and user-friendly system.
+
+---
+
+### 🔧 Functional Requirements
+
+**Definition:**  
+Functional requirements define what the system should do — the specific features, behaviors, and functions the software must support.
+
+**Examples for a Booking Management System:**
+
+- **User Registration:** New users should be able to register by providing their name, email, and password.
+- **User Authentication:** Users must be able to log in and log out securely using their credentials.
+- **Search Properties:** Users can search available properties using filters like location, price range, and availability dates.
+- **Property Listings:** Each property must display relevant details such as images, descriptions, availability, and pricing.
+- **Booking System:** Users can select dates, make a booking, cancel or modify bookings, and receive booking confirmation.
+- **Admin Management:** Admins should be able to add, edit, or remove property listings and manage user accounts.
+
+---
+
+### 🛡️ Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements describe **how** the system performs its tasks rather than what it does. These requirements ensure the system is usable, secure, reliable, and scalable.
+
+**Examples for a Booking Management System:**
+
+- **Performance:** Pages should load in under 2 seconds, even with up to 1,000 concurrent users.
+- **Security:** All user data must be encrypted. Implement secure login (e.g., SSL, hashed passwords) and protect against common vulnerabilities (e.g., SQL injection, XSS).
+- **Scalability:** The system should scale horizontally to handle increased traffic, such as during holiday seasons.
+- **Usability:** The user interface should be intuitive, with clear navigation and accessible design.
+- **Reliability:** The system should maintain an uptime of 99.9% and have automatic recovery mechanisms in case of failure.
+- **Maintainability:** The system architecture should support easy updates and integration of new features.
+
+---
+
+Understanding both types of requirements ensures that the final system is **functionally complete** and **operationally robust**, meeting both user expectations and technical standards.
 
 
 ## 📎 License
