@@ -143,7 +143,7 @@ Requirement Analysis is one of the earliest phases in the SDLC and influences al
 
 In summary, Requirement Analysis bridges the gap between stakeholder vision and technical implementation. When done correctly, it increases the chances of delivering a successful, valuable, and usable software product.
 
-## 📋 Key Activities in Requirement Analysis
+## Key Activities in Requirement Analysis
 
 The Requirement Analysis process is broken down into five essential activities, each playing a critical role in shaping a successful software project:
 
