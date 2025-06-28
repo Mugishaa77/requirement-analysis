@@ -293,6 +293,50 @@ Below is the use case diagram representing the interactions between users and th
 - **Registered Users** can manage their bookings and interact more deeply with the platform.
 - **Admins** maintain system integrity by managing users and property listings.
 
+## ✅ Acceptance Criteria
+
+### What is Acceptance Criteria?
+
+**Acceptance Criteria** are predefined conditions that a feature or user story must meet for it to be accepted by stakeholders. They serve as the benchmark to determine whether a feature has been implemented correctly and completely.
+
+---
+
+### 🎯 Importance of Acceptance Criteria in Requirement Analysis
+
+- **Clarifies Expectations**: Ensures developers and stakeholders share the same understanding of what success looks like for a feature.
+- **Guides Development**: Helps the development team focus on what needs to be delivered.
+- **Enables Testing**: Acts as the foundation for writing test cases and verifying completed work.
+- **Prevents Scope Creep**: Keeps the team focused on clearly defined outcomes.
+- **Supports Quality Assurance**: Ensures features are delivered with agreed performance, functionality, and usability standards.
+
+---
+
+### 🛒 Example: Acceptance Criteria for the *Checkout Feature* in the Booking Management System
+
+**User Story**:  
+*As a registered user, I want to be able to complete a booking checkout so that I can confirm my stay at a selected property.*
+
+**Acceptance Criteria**:
+
+- ✅ The user must be logged in to access the checkout page.
+- ✅ The system must display a summary of the selected property, booking dates, total cost, and user contact details.
+- ✅ The user must be able to review and confirm the booking before payment.
+- ✅ The payment must be processed securely using an integrated payment gateway.
+- ✅ Upon successful payment, a confirmation message must be displayed.
+- ✅ A confirmation email must be sent to the user within 2 minutes of successful checkout.
+- ✅ The booking should be saved and visible in the user's "My Bookings" dashboard.
+
+---
+
+### 📝 Best Practices
+
+- Keep acceptance criteria **clear**, **concise**, and **measurable**
+- Use **Given–When–Then** format when appropriate (for behavioral clarity)
+- Align criteria with both **functional** and **non-functional** requirements
+
+---
+
+Acceptance Criteria are essential for validating that a feature meets user expectations and project requirements — serving as a final checklist for completion and quality.
 
 ## 📎 License
 This project is for educational purposes as part of the ALX Software Engineering Program.
