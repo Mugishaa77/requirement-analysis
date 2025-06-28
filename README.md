@@ -143,6 +143,63 @@ Requirement Analysis is one of the earliest phases in the SDLC and influences al
 
 In summary, Requirement Analysis bridges the gap between stakeholder vision and technical implementation. When done correctly, it increases the chances of delivering a successful, valuable, and usable software product.
 
+## 📋 Key Activities in Requirement Analysis
+
+The Requirement Analysis process is broken down into five essential activities, each playing a critical role in shaping a successful software project:
+
+---
+
+### 1. Requirement Gathering 🗂️
+This is the initial phase where raw data is collected from stakeholders to understand their needs and expectations.
+
+- Conduct interviews with clients, users, and subject-matter experts.
+- Distribute surveys and questionnaires to collect broad insights.
+- Organize workshops and focus group discussions.
+- Observe users in their work environment to understand real workflows.
+- Analyze existing systems and documentation for context.
+
+---
+
+### 2. Requirement Elicitation ✍️
+In this phase, collected information is further refined, clarified, and explored to define specific needs.
+
+- Facilitate brainstorming sessions to generate ideas.
+- Conduct focus groups to dive deep into user expectations.
+- Use prototyping to visualize ideas and receive feedback.
+- Address conflicting requirements through discussion and negotiation.
+
+---
+
+### 3. Requirement Documentation 📚
+All gathered and refined requirements are recorded in structured, formal documents for review and reference.
+
+- Create a **Requirement Specification Document** detailing functional and non-functional requirements.
+- Write **User Stories** to represent requirements from an end-user’s perspective.
+- Develop **Use Case Diagrams** to visualize user interactions with the system.
+
+---
+
+### 4. Requirement Analysis and Modeling 📊
+This stage involves analyzing and organizing requirements to ensure they are feasible, prioritized, and well understood.
+
+- Prioritize requirements based on business value and urgency.
+- Perform feasibility studies considering technical and budget constraints.
+- Use modeling tools (e.g., Data Flow Diagrams, ER Diagrams) to visualize workflows and system structure.
+
+---
+
+### 5. Requirement Validation ✅
+Finally, the documented requirements are verified and validated with stakeholders to ensure accuracy and completeness.
+
+- Review requirements with stakeholders for approval.
+- Define **Acceptance Criteria** for each requirement to guide testing.
+- Create a **Traceability Matrix** to ensure all requirements are tracked throughout the project lifecycle.
+
+---
+
+Together, these activities create a structured, stakeholder-aligned blueprint that guides the development of a reliable and effective software product.
+
+
 
 ## 📎 License
 This project is for educational purposes as part of the ALX Software Engineering Program.
