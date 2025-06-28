@@ -239,6 +239,60 @@ Non-functional requirements describe **how** the system performs its tasks rathe
 
 Understanding both types of requirements ensures that the final system is **functionally complete** and **operationally robust**, meeting both user expectations and technical standards.
 
+## 📊 Use Case Diagrams
+
+### What is a Use Case Diagram?
+
+A **Use Case Diagram** is a visual representation of how different types of users (called *actors*) interact with the system to accomplish specific tasks (*use cases*). It helps in understanding system functionality from a user's perspective and is essential for identifying the main features required in development.
+
+---
+
+### 🎯 Benefits of Use Case Diagrams
+
+- **Clarity**: Easily communicates what the system will do.
+- **Stakeholder Alignment**: Helps stakeholders visualize and validate interactions.
+- **Requirement Validation**: Identifies core features and ensures all user goals are captured.
+- **Scope Definition**: Clearly outlines the boundaries of system functionality.
+- **Documentation Aid**: Serves as a foundation for writing user stories and acceptance criteria.
+
+---
+
+### 🧍‍♂️ Actors and Use Cases for the Booking Management System
+
+#### Actors:
+- **Guest** (Unregistered user)
+- **Registered User** (Customer)
+- **Admin** (Platform manager)
+
+#### Use Cases:
+- View Properties
+- Register Account
+- Login/Logout
+- Search Properties
+- Book Property
+- Cancel Booking
+- Manage Bookings
+- Manage Listings (Admin)
+- Manage Users (Admin)
+
+---
+
+### 📌 Use Case Diagram
+
+Below is the use case diagram representing the interactions between users and the system for the ALX Booking Management System:
+
+![Use Case Diagram for Booking System](alx-booking-uc.png)
+
+> *(Diagram created using [draw.io](https://app.diagrams.net) and exported as `alx-booking-uc.png`)*
+
+---
+
+### 📝 Notes
+
+- **Guests** can browse and search properties but need to register to book.
+- **Registered Users** can manage their bookings and interact more deeply with the platform.
+- **Admins** maintain system integrity by managing users and property listings.
+
 
 ## 📎 License
 This project is for educational purposes as part of the ALX Software Engineering Program.
